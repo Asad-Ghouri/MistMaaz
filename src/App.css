@@ -1,0 +1,37 @@
+.header-button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  letter-spacing: inherit;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.bg-daark {
+  --bs-bg-opacity: 1;
+  background-color: black;
+  height: 70vh;
+}
+
+.text-whitee {
+  --bs-text-opacity: 1;
+  color: white;
+}
+
+.table {
+  display: flex;
+  margin-left: 50px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
